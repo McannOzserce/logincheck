@@ -1,2 +1,2 @@
 # logincheck
-login and register check with sqllite3 database with python
+this is very basic login control and register processors with sqllite3 with python
